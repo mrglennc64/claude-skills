@@ -377,10 +377,3 @@ MIT — see [LICENSE](LICENSE) for details.
 
 ---
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=alirezarezvani/claude-skills&type=Date)](https://star-history.com/#alirezarezvani/claude-skills&Date)
-
----
-
-**Built by [Alireza Rezvani](https://alirezarezvani.com)** · [Medium](https://alirezarezvani.medium.com) · [Twitter](https://twitter.com/nginitycloud)
